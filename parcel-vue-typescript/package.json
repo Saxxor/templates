@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "parcel": "latest",
+    "vue": "^3.3.4"
+  },
+  "scripts": {
+    "dev": "parcel serve src/index.html"
+  }
+}
